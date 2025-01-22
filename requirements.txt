@@ -1,0 +1,10 @@
+langchain
+langchain-text-splitters
+litellm
+torch
+qdrant-client
+scikit-learn
+ipython
+nltk
+transformers
+duckduckgo-search
